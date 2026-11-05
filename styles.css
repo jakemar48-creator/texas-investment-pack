@@ -8,3 +8,5 @@
 .event-photo img,.speaker-photo img{width:100%;height:auto;border-radius:var(--radius)}
 .speaker-photo{margin:0 0 28px}
 @media(max-width:620px){.brand{font-size:18px;max-width:155px}.event-photo{margin-top:28px}}
+
+.pack-cover{display:block;width:100%;max-width:440px;height:auto;margin-inline:auto;border-radius:var(--radius)}
