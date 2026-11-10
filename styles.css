@@ -10,3 +10,5 @@
 @media(max-width:620px){.brand{font-size:18px;max-width:155px}.event-photo{margin-top:28px}}
 
 .pack-cover{display:block;width:100%;max-width:440px;height:auto;margin-inline:auto;border-radius:var(--radius)}
+
+@media(max-width:620px){.nav .button{white-space:normal;text-align:center;flex:0 1 190px;line-height:1.35}.nav .brand{flex:1 1 120px;min-width:0}}
